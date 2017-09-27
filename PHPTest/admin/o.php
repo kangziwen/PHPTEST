@@ -21,9 +21,9 @@
         -->
     </style></head>
 
-<body bgcolor="#0ff">
+<body bgcolor="white">
 <?php
-echo "呵呵哒!www.houdunwang.com!";
+echo "欢迎回来!";
 
 ?>
 
